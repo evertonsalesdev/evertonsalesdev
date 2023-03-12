@@ -4,5 +4,5 @@
 
 ![Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonsalesdev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonsalesdev&hide_progress=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonsalesdev&hide_progress=true)](https://github.com/evertonsalesdev/github-readme-stats)
 
