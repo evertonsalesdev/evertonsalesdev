@@ -1,6 +1,6 @@
 ### Olá! Bem vindo ao meu GitHub ✌️
 
-<h5>Estudante de tecnologia, atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na Estácio. Foco meus estudos na parte de Back-End, estudo Python por conta própria e espero um dia ingressar no mercado de trabalho!</h4>
+<p>Estudante de tecnologia, atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na Estácio. Foco meus estudos na parte de Back-End, estudo Python por conta própria e espero um dia ingressar no mercado de trabalho!</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-sales-354909266/)
 
