@@ -1,6 +1,6 @@
 ### Olá! Bem vindo ao meu GitHub ✌️
 
-<p>Estudante de tecnologia, atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na Estácio. Foco meus estudos na parte de Back-End, estudo Python por conta própria e espero um dia ingressar no mercado de trabalho!</p>
+<p>Prazer, me chamo Everton Sales, Estudante de tecnologia, atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na Estácio. Foco meus estudos na parte de Back-End, estudo Python por conta própria e espero um dia ingressar no mercado de trabalho!</p>
 
 #### Perfil no linkedin:
 
